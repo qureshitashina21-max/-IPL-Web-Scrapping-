@@ -1,0 +1,6 @@
+Python
+Requests
+BeautifulSoup (bs4)
+Pandas
+Matplotlib / Seaborn
+Jupyter Notebook
