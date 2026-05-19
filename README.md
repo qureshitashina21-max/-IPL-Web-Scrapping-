@@ -1,13 +1,13 @@
-IPL Winners Data Web Scraping & Analysis
+###IPL Winners Data Web Scraping & Analysis
 This project scrapes Indian Premier League (IPL) winners data from Wikipedia using Python, Requests, and BeautifulSoup, then cleans the data, converts it into a structured format, and performs basic analysis and visualization in Pandas.
-📌 Project Features
+ Project Features
 Scraped IPL winners table directly from Wikipedia
 Extracted Year and Winner columns
 Cleaned and formatted raw HTML data
 Created a structured CSV file (ipl_winners.csv)
 Loaded the data into Pandas for analysis
 Visualized trends using Matplotlib / Seaborn
-🛠 Tools & Technologies
+ Tools & Technologies
 Python
 Requests
 BeautifulSoup (bs4)
